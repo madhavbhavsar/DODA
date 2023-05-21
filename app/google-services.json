@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724446273583",
+    "project_id": "doda-58fbe",
+    "storage_bucket": "doda-58fbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724446273583:android:0358c2123011c8e091a6da",
+        "android_client_info": {
+          "package_name": "com.mad.doda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724446273583-dg3vvucd6qa1kkb95etq98b3cq4uubb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuu1KhpBzdMcRA0QPSlCTZii-iJ3wkbuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724446273583-dg3vvucd6qa1kkb95etq98b3cq4uubb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

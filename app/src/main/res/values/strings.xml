@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Doda</string>
+    <string name="addmarker">+ Add Marker</string>
+    <string name="adddrawing">+ Add Drawing</string>
+    <string name="market_title">Marker Title</string>
+    <string name="marker_description">Marker Description</string>
+</resources>
