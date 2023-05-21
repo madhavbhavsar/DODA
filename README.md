@@ -11,7 +11,7 @@ Features To Add -
 
 Apk Zip File - https://drive.google.com/file/d/1QWsGxBPI_BmN2SkW0s8u5_bINDa9C5sq/view?usp=share_link
 
-Yourube Video - https://youtu.be/SzeGcA9aM78
+Youtube Video - https://youtu.be/SzeGcA9aM78
 
 Images - <br><br>
 ![Screenshot_20230522-025044](https://github.com/madhavbhavsar/DODA/assets/69354473/c30d8e77-fd00-4589-9579-8c981ce3cace)
